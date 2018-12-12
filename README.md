@@ -7,10 +7,10 @@ Total development time is ~3 hours so far.
 
 # Features I would like to add in the future
 
-| Customizable values such as ripple size
-| Choosing colors
-| Probably some others that I have failed to mention in this readme. I have notes inside of the .cs file of features I would like to add.
-| Clean up the buttons. They are a little hard to click currently.
+Customizable values such as ripple size,
+Choosing colors,
+Probably some others that I have failed to mention in this readme. I have notes inside of the .cs file of features I would like to add. ,
+Clean up the buttons. They are a little hard to click currently.
 
 # Development Successes
 
